@@ -1,8 +1,6 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sumit Kumar Jha.</h1>
 <h3 align="center">Just a tech.</h3>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sumitjha480&label=Profile%20views&color=0e75b6&style=flat" alt="Sumitjha480" /> </p>
  
 <div style="display:flex">
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
@@ -25,7 +23,7 @@
 <h2 align="center">GitHub Stats:</h3>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sumitjha480&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ankit404butfound" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sumitjha480&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sumitjha480" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sumitjha480&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="ankit404butfound" />
 
