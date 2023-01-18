@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sumit Kumar Jha.</h1>
 <h3 align="center">Just a tech.</h3>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdagger007&label=Profile%20views&color=0e75b6&style=flat" alt="blackdagger007" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sumitjha480&label=Profile%20views&color=0e75b6&style=flat" alt="Sumitjha480" /> </p>
  
 <div style="display:flex">
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
