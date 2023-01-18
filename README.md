@@ -29,11 +29,11 @@
 
 <h2 align="center">GitHub Stats:</h3>
 <div align="center">
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboogoel01&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sumitjha480&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sumitjha480" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sumitjha480&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="ankit404butfound" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitjha480&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
+ 
+
 
 </div>
