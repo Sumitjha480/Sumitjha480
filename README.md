@@ -1,6 +1,6 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sumit Kumar Jha.</h1>
-<h3 align="center">Just a tech.</h3>
+<h3 align="center">Just a kid trying to Figure-Out Stuff!!.</h3>
  
 <div style="display:flex">
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
@@ -9,6 +9,13 @@
 - 🔭 I’m currently working on improving my DSA
 
 - 📫 How to reach me **sumitjha480@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sumit-kumar-jha-6811b884/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sumit-kumar-jha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sumitjha480/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sumitjha480" height="30" width="40" /></a>
+</p>
+
 
 </div>
 
